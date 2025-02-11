@@ -55,8 +55,8 @@ export const config = {
 			// capabilities for local Appium web tests on an Android Emulator
 			platformName: "Android",
 			"appium:deviceName": "3c05d26b",
-			"appium:appPackage": "com.motorinc",
-			"appium:appActivity": "com.motorinc.MainActivity",
+			"appium:appPackage": "com.xxxxx",
+			"appium:appActivity": "com.xxxxx.MainActivity",
 			"appium:automationName": "UiAutomator2",
 			"appium:noReset": true, // Prevents reinstalling the app every test run
 			"appium:fullReset": false,
