@@ -68,6 +68,7 @@ Automation Configuration
 6. Configure WebdriverIO & Appium
 
 Ensure your wdio.conf.js file is set up with the necessary capabilities. An example configuration:
+(Note: please make changes at xxx places
 
 exports.config = {
     runner: 'local',
